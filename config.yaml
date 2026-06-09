@@ -1,0 +1,7 @@
+output_dir: "./recordings"
+poll_interval_sec: 2
+stop_debounce_checks: 3
+video_fps: 20
+video_crf: 23
+include_microphone: false
+autostart_with_windows: true
